@@ -1,6 +1,6 @@
 ## Hello :wave:
 
-- :computer: Currently working on : Volos Community App
+- :computer: Currently working on : Custom Wordpress Themes / Plugins
 - :ghost: Years of experience : 4
 - :books: Currently learning : NextJS - creating apis with laravel
 - :mailbox: Email : christosgsd@gmail.com
