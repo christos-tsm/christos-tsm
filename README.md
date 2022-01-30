@@ -1,6 +1,7 @@
 ## Hello :wave:
 
 - :computer: Currently working on : Custom Wordpress Themes / Plugins
+- :computer: Personal projects on NextJS
 - :ghost: Years of experience : 4
 - :books: Currently learning : NextJS - creating apis with laravel
 - :mailbox: Email : christosgsd@gmail.com
